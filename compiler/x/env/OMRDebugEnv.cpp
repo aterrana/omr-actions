@@ -35,4 +35,5 @@ OMR::X86::DebugEnv::DebugEnv() :
    _codeByteColumnWidth = 28;
 #endif
 
+            // Test
    }
