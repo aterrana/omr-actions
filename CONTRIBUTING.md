@@ -22,6 +22,8 @@ SPDX-License-Identifier: EPL-2.0 OR Apache-2.0 OR GPL-2.0 WITH Classpath-excepti
 
 # Contributing to Eclipse OMR
 
+Test
+
 Thanks for your interest in this project.
 
 We welcome and encourage all kinds of contribution to the project, not only code.
