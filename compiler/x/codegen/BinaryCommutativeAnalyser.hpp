@@ -30,6 +30,8 @@
 namespace TR { class Machine; }
 namespace TR { class Node; }
 
+// Test
+
 #define EvalChild1  0x01
 #define EvalChild2  0x02
 #define CopyReg1    0x04
