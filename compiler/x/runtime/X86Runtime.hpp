@@ -24,6 +24,8 @@
 
 #include "env/ProcessorInfo.hpp"
 
+// Test
+
 #if defined(OMR_OS_WINDOWS)
 #include <intrin.h>
 #define cpuid(CPUInfo, EAXValue)             __cpuid(CPUInfo, EAXValue)
