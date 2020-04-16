@@ -23,6 +23,8 @@
 #ifndef omrnlshelpers_h
 #define omrnlshelpers_h
 
+// Test
+
 void nls_determine_locale(struct OMRPortLibrary *portLibrary);
 
 
